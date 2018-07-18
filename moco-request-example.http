@@ -1,0 +1,7 @@
+GET https://nexus-netsoft.mocoapp.com/api/v1/activities?from=2018-07-01&to=2018-07-31&user_id=933603914
+Accept: */*
+Cache-Control: no-cache
+Authorization: Token token=a8179427a96ebfc9c1daa3c2e7c508e8
+
+###
+

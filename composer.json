@@ -1,0 +1,12 @@
+{
+    "name": "patrickjaja/missing-moco-component-warn",
+    "authors": [
+        {
+            "name": "patrick.jaja",
+            "email": "patrickjaja@web.de"
+        }
+    ],
+    "require": {
+        "phpmailer/phpmailer": "^6.0"
+    }
+}
